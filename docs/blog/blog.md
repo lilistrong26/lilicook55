@@ -1,1 +1,1 @@
-This is where you link topics that you write about
+Mind map for blog topics

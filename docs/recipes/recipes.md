@@ -1,1 +1,1 @@
-This is the home page for starting to link recipes
+Mind map for recipes
